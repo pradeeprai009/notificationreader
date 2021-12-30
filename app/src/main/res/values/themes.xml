@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorDarkTheme</item>
+        <item name="colorPrimaryDark">@color/colorDarkTheme</item>
+        <item name="colorAccent">@color/colorBackGroundEdittext</item>
+    </style>
+</resources>
